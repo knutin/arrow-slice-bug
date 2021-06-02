@@ -1,0 +1,10 @@
+[package]
+name = "arrow-slice-bug"
+version = "0.1.0"
+authors = ["Knut Nesheim <knutin@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+arrow = "4.2.0"
